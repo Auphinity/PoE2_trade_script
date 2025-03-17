@@ -1,6 +1,6 @@
 ///////RU
 
-1. Запустить Starter.bat (Обязательно перед этим переключть рассладку языка на АНГЛИЙСКУЮ!)
+1. Запустить trade.exe (Обязательно перед этим переключть рассладку языка на АНГЛИЙСКУЮ!)
 2. Пишем в первом (или любом другом) канале чата торговли свое сообщение (После запуска скрипта с английской расскладки, ее можно менять для написания сообщения и тд.)
 3. Перед запуском цикла проверяем чтобы раскладка была Английской
 4. Нажимаем "Запустить цикл торговли" (Скрипт начинает свою работу с команды /trade 2 и продолжает работу до 30го канала)
@@ -14,7 +14,7 @@
 
 ///////EN
 
-Run Starter.bat (Make sure to switch the keyboard layout to ENGLISH before this!)
+Run trade.exe (Make sure to switch the keyboard layout to ENGLISH before this!)
 Type your message in the first (or any other) trade chat channel. (After launching the script with the English layout, you can switch it to write messages, etc.)
 Before starting the cycle, ensure the keyboard layout is set to English.
 Click "Start Trade Cycle" (The script begins its work with the command /trade 2 and continues up to channel 30).
